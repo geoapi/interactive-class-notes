@@ -2,3 +2,7 @@ textarea {
   display: block;
   width: 100%;
 }
+
+button {
+  margin-left: 25px;
+}
